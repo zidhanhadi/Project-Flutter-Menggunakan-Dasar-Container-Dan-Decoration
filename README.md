@@ -1,7 +1,8 @@
 # Dibuat Oleh Zidhan Hadi 
 
 TUGAS PAPB FLUTTER DASAR CONTAINER DAN DECORATION (ZIDHAN HADI IRAWAN - 20104410021)
-Note: File Main dan Screen.dart nya ada di folder lib
+
+# Note: File Main dan Screen.dart nya ada di folder lib
 
 ## Getting Started
 
